@@ -1,4 +1,4 @@
-# A-Path-Finding-Algo
+# A*-Path-Finding-Algo
 
 Its not rocket science.  
 
