@@ -1,4 +1,4 @@
-# A*-Path-Finding-Algo
+# A* Path Finding Algorithm 
 
 Its not rocket science.  
 
